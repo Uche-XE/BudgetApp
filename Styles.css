@@ -10,7 +10,7 @@ h1 {
 }
 
 .container {
-    flex-wrap: ;
+    flex-wrap: wrap ;
 }
 
 table, th, td {
